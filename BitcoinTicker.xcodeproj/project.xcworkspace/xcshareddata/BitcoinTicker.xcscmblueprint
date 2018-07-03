@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "898BDFD9E86D271C2827F390342D3F5F4946C0C6",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "898BDFD9E86D271C2827F390342D3F5F4946C0C6" : 0,
+    "CC7D4C83F89543DC5D7313A87002A3A288282EF1" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "3C1BCD9A-8A0B-408D-B269-9CC0774F00A5",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "898BDFD9E86D271C2827F390342D3F5F4946C0C6" : "BitcoinTicker\/",
+    "CC7D4C83F89543DC5D7313A87002A3A288282EF1" : ".."
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "BitcoinTicker",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "BitcoinTicker.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/londonappbrewery\/BitcoinTicker.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "898BDFD9E86D271C2827F390342D3F5F4946C0C6"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/londonappbrewery\/Vixion.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "CC7D4C83F89543DC5D7313A87002A3A288282EF1"
+    }
+  ]
+}
